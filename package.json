@@ -1,0 +1,17 @@
+{
+  "name": "lumen-estates",
+  "version": "1.0.0",
+  "description": "Lumen Estates - Luxury Real Estate Web Application",
+  "scripts": {
+    "start": "python -m http.server 3000",
+    "dev": "python -m http.server 3000",
+    "serve": "npx serve -l 3000 ."
+  },
+  "keywords": [
+    "real-estate",
+    "luxury-homes",
+    "lumen-estates"
+  ],
+  "author": "",
+  "license": "ISC"
+}
